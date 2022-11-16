@@ -7,9 +7,11 @@ The purpose of this repository is to invite you to try decrypting the file **Dat
 to understand its content.
 
 ### Are you ready for decripting it? 
-1. Download the file [DataLock_Archive.ldk from repository](https://github.com/rinorusso/datalock/raw/main/DataLock_Archive.ldk)
-2. Analyze it
-3. Decrypt it
-4. Upload your analysis report as a pull request
+1. Star and Watch this repository
+2. Download the file [DataLock_Archive.ldk](https://github.com/rinorusso/datalock/blob/main/DataLock_Archive.ldk) The file is clean, does not contain any viruses, malware, macros, executable files and similar crap.
+3. Analyze it
+4. Decrypt it
+5. Describe what type of encryption it uses, what it contains, and any other information you find useful.
+6. Upload your analysis report as a pull request
 
-Thank you for your time!
+Thank you in advance for your time!
