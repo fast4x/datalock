@@ -1,8 +1,7 @@
 # DataLock
 DataLock is a Tool for data protection with a high-level algorithm
 
-Can you understand what file it is and the algorithm used to create it?
+The purpose of this repository is to invite you to try decrypting the file 
+[Link Text]https://github.com/rinorusso/datalock/blob/main/DataLock_Archive.ldk
+to understand its content.
 
-If yes, try to download, analyze and identify file properties
-
-Cooming soon...
