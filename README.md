@@ -3,7 +3,7 @@ DataLock is a new Tool for data protection with a high-level algorithm
 
 Official repository of [datalck.com](https://www.datalck.com/)
 
-The purpose of this repository is to invite you to try decrypting the file **DataLock_Archive.ldk**
+The purpose of this repository is to invite you to try decrypting the file **DataLock_Archive.ldk** and discover its contents.
 
 ### Are you ready to enjoy decrypting it? 
 1. Star and Watch this repository
