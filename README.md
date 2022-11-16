@@ -10,7 +10,7 @@ to understand its content.
 1. Star and Watch this repository
 2. Download the raw file [DataLock_Archive.ldk](https://github.com/rinorusso/datalock/blob/main/DataLock_Archive.ldk) The file is clean, does not contain any viruses, malware, macros, executable files and similar crap.
 3. Analyze it
-4. Decrypt it
+4. Try to decrypt it
 5. Describe what type of encryption it uses, what it contains, and any other information you find useful.
 6. Upload your analysis report as a pull request
 
