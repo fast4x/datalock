@@ -1,5 +1,5 @@
 # DataLock
-DataLock is a new Tool for personal data protection with a high-level algorithm
+DataLock is a new Tool for data protection with a high-level algorithm
 
 Official repository of [datalck.com](https://www.datalck.com/)
 
