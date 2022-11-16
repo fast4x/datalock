@@ -14,4 +14,5 @@ to understand its content.
 5. **Describe** what type of encryption it uses, what it contains, and any other information you find useful.
 6. **Upload your analysis report** as a pull request
 
-Thank you in advance for your collaboration! 
+#### All participants will receive the PRO version of DataLock for free.
+**Thank you in advance for your time!**
