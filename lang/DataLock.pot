@@ -1,0 +1,443 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tform1.abbreviaontheweb1.caption
+msgid "DataLock on the web"
+msgstr ""
+
+#: tform1.about1.caption
+msgid "DataLock Info"
+msgstr ""
+
+#: tform1.addfiles1.caption
+msgid "&Add Files..."
+msgstr ""
+
+#: tform1.all1.caption
+msgid "A&ll"
+msgstr ""
+
+#: tform1.attributes1.caption
+msgid "&Attributes"
+msgstr ""
+
+#: tform1.best1.caption
+msgid "&Best"
+msgstr ""
+
+#: tform1.btnagg.caption
+msgid "btnagg"
+msgstr ""
+
+#: tform1.btnagg.hint
+msgid "Add directory and files"
+msgstr ""
+
+#: tform1.btnapri.caption
+msgid "btnapri"
+msgstr ""
+
+#: tform1.btnapri.hint
+msgid "Open"
+msgstr ""
+
+#: tform1.btnchiave.caption
+msgid "btnchiave"
+msgstr ""
+
+#: tform1.btndel.caption
+msgid "btndel"
+msgstr ""
+
+#: tform1.btndel.hint
+msgid "Delete"
+msgstr ""
+
+#: tform1.btnestrai.caption
+msgid "btnestrai"
+msgstr ""
+
+#: tform1.btnestrai.hint
+msgid "Extract"
+msgstr ""
+
+#: tform1.btnnuovo.caption
+msgid "btnnuovo"
+msgstr ""
+
+#: tform1.btnnuovo.hint
+msgid "New"
+msgstr ""
+
+#: tform1.btnsalva.caption
+msgid "btnsalva"
+msgstr ""
+
+#: tform1.btnsalva.hint
+msgid "Save"
+msgstr ""
+
+#: tform1.btnsig.caption
+msgid "btnsig"
+msgstr ""
+
+#: tform1.btnsig.hint
+msgid "Close and sign"
+msgstr ""
+
+#: tform1.caption
+msgctxt "tform1.caption"
+msgid "DataLock"
+msgstr ""
+
+#: tform1.close1.caption
+msgid "&Close and Sign"
+msgstr ""
+
+#: tform1.compressionmethodtouse1.caption
+msgid "&Compression Method To Use"
+msgstr ""
+
+#: tform1.confirmations1.caption
+msgid "Con&firmations"
+msgstr ""
+
+#: tform1.contents1.caption
+msgid "&Guide"
+msgstr ""
+
+#: tform1.convert1.caption
+msgid "&Convert (to .exe)"
+msgstr ""
+
+#: tform1.createdirs1.caption
+msgid "&Create Directories"
+msgstr ""
+
+#: tform1.default1.caption
+msgid "Defa&ult"
+msgstr ""
+
+#: tform1.deflate1.caption
+msgid "&Deflate"
+msgstr ""
+
+#: tform1.deflationoption1.caption
+msgid "&Deflation Options"
+msgstr ""
+
+#: tform1.delete1.caption
+msgid "Delete Selected File(s)"
+msgstr ""
+
+#: tform1.deleteallselected.hint
+msgid "Delete selected files"
+msgstr ""
+
+#: tform1.deletefiles1.caption
+msgid "&Delete Files..."
+msgstr ""
+
+#: tform1.exit1.caption
+msgid "E&xit"
+msgstr ""
+
+#: tform1.extract1.caption
+msgid "Estract Selected File(s)"
+msgstr ""
+
+#: tform1.extractallselected.hint
+msgid "Extract selected files"
+msgstr ""
+
+#: tform1.extractfiles1.caption
+msgid "&Extract Files..."
+msgstr ""
+
+#: tform1.extractoptions1.caption
+msgid "&Extract Options"
+msgstr ""
+
+#: tform1.fast1.caption
+msgid "&Fast"
+msgstr ""
+
+#: tform1.file1.caption
+msgid "&File"
+msgstr ""
+
+#: tform1.filecomment1.caption
+msgid "&File Comment"
+msgstr ""
+
+#: tform1.font1.caption
+msgid "&Font..."
+msgstr ""
+
+#: tform1.freshen1.caption
+msgid "&Freshen"
+msgstr ""
+
+#: tform1.freshenfiles1.caption
+msgid "&Freshen Files..."
+msgstr ""
+
+#: tform1.help1.caption
+msgid "&?"
+msgstr ""
+
+#: tform1.hierarchy1.caption
+msgid "&Hierarchy"
+msgstr ""
+
+#: tform1.img_sd.hint
+msgid "DataLock Signature Status"
+msgstr ""
+
+#: tform1.items1.caption
+msgid "&Items"
+msgstr ""
+
+#: tform1.label1.caption
+msgid "Pronto"
+msgstr ""
+
+#: tform1.label2.caption
+msgid "Selected Files"
+msgstr ""
+
+#: tform1.label3.caption
+msgid " Esplora cartella"
+msgstr ""
+
+#: tform1.logging1.caption
+msgid "&Logging..."
+msgstr ""
+
+#: tform1.maximum1.caption
+msgid "Ma&ximum"
+msgstr ""
+
+#: tform1.menufiledeselect.hint
+msgid "Deselect file"
+msgstr ""
+
+#: tform1.menufiledeselectall.hint
+msgid "Deselect all selected files"
+msgstr ""
+
+#: tform1.menuitem1.caption
+msgid "&New"
+msgstr ""
+
+#: tform1.menuitem2.caption
+msgid "Crypt"
+msgstr ""
+
+#: tform1.menuitem3.caption
+msgid "Extract Selected File"
+msgstr ""
+
+#: tform1.menuitem4.caption
+msgctxt "tform1.menuitem4.caption"
+msgid "Extract All"
+msgstr ""
+
+#: tform1.menuitem5.caption
+msgid "Delete Files"
+msgstr ""
+
+#: tform1.menuitem6.caption
+msgctxt "tform1.menuitem6.caption"
+msgid "Extract All"
+msgstr ""
+
+#: tform1.menuitem7.caption
+msgid "Deselect File"
+msgstr ""
+
+#: tform1.menuitem8.caption
+msgid "Extract All Selected Files"
+msgstr ""
+
+#: tform1.menuitemselect.caption
+msgid "Select File"
+msgstr ""
+
+#: tform1.move1.caption
+msgid "&Move..."
+msgstr ""
+
+#: tform1.none1.caption
+msgid "N&one"
+msgstr ""
+
+#: tform1.normal1.caption
+msgid "&Normal"
+msgstr ""
+
+#: tform1.open1.caption
+msgid "&Open"
+msgstr ""
+
+#: tform1.opendialog1.title
+msgid "Open DataLock Folder"
+msgstr ""
+
+#: tform1.os1.caption
+msgid "&Only Text"
+msgstr ""
+
+#: tform1.os2.caption
+msgid "+/&-"
+msgstr ""
+
+#: tform1.os3.caption
+msgid "&Glyphs"
+msgstr ""
+
+#: tform1.os4.caption
+msgid "&+/- and Glyphs"
+msgstr ""
+
+#: tform1.os5.caption
+msgid "Only T&ree"
+msgstr ""
+
+#: tform1.os6.caption
+msgid "&Tree and Glyphs"
+msgstr ""
+
+#: tform1.panel5.caption
+msgctxt "tform1.panel5.caption"
+msgid "DataLock"
+msgstr ""
+
+#: tform1.panellog.caption
+msgid "PanelLog"
+msgstr ""
+
+#: tform1.password1.caption
+msgid "&Password..."
+msgstr ""
+
+#: tform1.preferences1.caption
+msgid "&Preferences"
+msgstr ""
+
+#: tform1.recursetree1.caption
+msgid "&Recurse Tree"
+msgstr ""
+
+#: tform1.removedots1.caption
+msgid "Remove &Dots"
+msgstr ""
+
+#: tform1.restorepath1.caption
+msgid "&Restore Path"
+msgstr ""
+
+#: tform1.run1.caption
+msgid "&Run"
+msgstr ""
+
+#: tform1.save1.caption
+msgid "&Save"
+msgstr ""
+
+#: tform1.savedialog1.title
+msgid "Save DataLock Folder"
+msgstr ""
+
+#: tform1.showemptyfolders1.caption
+msgid "S&how Empty folders"
+msgstr ""
+
+#: tform1.speedbutton1.hint
+msgid "Select file"
+msgstr ""
+
+#: tform1.statuslbl.caption
+msgid "Statuslbl"
+msgstr ""
+
+#: tform1.store1.caption
+msgid "&Store"
+msgstr ""
+
+#: tform1.storeoptions1.caption
+msgid "&Store Options"
+msgstr ""
+
+#: tform1.strippath1.caption
+msgid "&Strip Path"
+msgstr ""
+
+#: tform1.style1.caption
+msgid "&Style"
+msgstr ""
+
+#: tform1.superfast1.caption
+msgid "&Super Fast"
+msgstr ""
+
+#: tform1.tempdirectory1.caption
+msgid "&Temp Directory..."
+msgstr ""
+
+#: tform1.toolbar1.caption
+msgid "ToolBar1"
+msgstr ""
+
+#: tform1.toolbutton1.caption
+msgid "ToolButton1"
+msgstr ""
+
+#: tform1.view1.caption
+msgid "&View"
+msgstr ""
+
+#: tform1.za0.caption
+msgid "&Compressed Size"
+msgstr ""
+
+#: tform1.za1.caption
+msgid "Compression &Method"
+msgstr ""
+
+#: tform1.za10.caption
+msgid "Version Nee&ded To Extract"
+msgstr ""
+
+#: tform1.za2.caption
+msgid "Compression R&atio"
+msgstr ""
+
+#: tform1.za3.caption
+msgid "C&RC"
+msgstr ""
+
+#: tform1.za4.caption
+msgid "&External File Attributes"
+msgstr ""
+
+#: tform1.za5.caption
+msgid "&Internal File Attributes"
+msgstr ""
+
+#: tform1.za6.caption
+msgid "E&ncryption"
+msgstr ""
+
+#: tform1.za7.caption
+msgid "&Time Stamp"
+msgstr ""
+
+#: tform1.za8.caption
+msgid "&Uncompressed Size"
+msgstr ""
+
+#: tform1.za9.caption
+msgid "&Version Made By"
+msgstr ""
+

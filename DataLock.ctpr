@@ -26,11 +26,12 @@
     <VersionInfo>
       <UseVersionInfo Value="True"/>
       <AutoIncrementBuild Value="True"/>
+      <MajorVersionNr Value="1"/>
       <MinorVersionNr Value="1"/>
       <RevisionNr Value="1"/>
-      <BuildNr Value="94"/>
+      <BuildNr Value="96"/>
       <Language Value="0410"/>
-      <StringTable ProductVersion="0.0.0.0"/>
+      <StringTable ProductVersion="1.1"/>
     </VersionInfo>
     <BuildModes Count="1">
       <Item1 Name="Default" Default="True"/>
@@ -147,7 +148,7 @@
     <Version Value="11"/>
     <PathDelim Value="\"/>
     <Target>
-      <Filename Value="DataLock"/>
+      <Filename Value="Bin\DataLock"/>
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
