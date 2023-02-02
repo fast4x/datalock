@@ -1,4 +1,4 @@
 # DataLock
-DataLock is a Tool for data protection with a high-level algorithm
+DataLock - Tool for personal data protection with sign option
 
 ![alt text](/img/datalock.png)
