@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="12"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <MainUnitHasUsesSectionForAllUnits Value="False"/>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+        <CompatibilityMode Value="True"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <Title Value="DataLock"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+      <Icon Value="0"/>
+    </General>
+    <i18n>
+      <EnableI18N Value="True"/>
+      <OutDir Value="lang"/>
+      <ExcludedIdentifiers Count="1">
+        <Item1 Value="TFmWriter.*"/>
+      </ExcludedIdentifiers>
+    </i18n>
+    <VersionInfo>
+      <UseVersionInfo Value="True"/>
+      <AutoIncrementBuild Value="True"/>
+      <MinorVersionNr Value="1"/>
+      <RevisionNr Value="1"/>
+      <BuildNr Value="94"/>
+      <Language Value="0410"/>
+      <StringTable ProductVersion="0.0.0.0"/>
+    </VersionInfo>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="1">
+        <Mode0 Name="default"/>
+      </Modes>
+    </RunParams>
+    <RequiredPackages Count="4">
+      <Item1>
+        <PackageName Value="pl_onguard"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="pl_DCP"/>
+      </Item2>
+      <Item3>
+        <PackageName Value="pl_abbrevia"/>
+      </Item3>
+      <Item4>
+        <PackageName Value="adLCL"/>
+      </Item4>
+    </RequiredPackages>
+    <Units Count="12">
+      <Unit0>
+        <Filename Value="DataLock.ppr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ubasedlg.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="BaseDirDlg"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="udemodlg.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DemoDlg"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="dgAbout.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dlgAboutBox"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="UMain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="unit2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="unit_open.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="form_open"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="unit_crypt.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form_crypt"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="FmWriter.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="WriterForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="FmReader.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="ReaderForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="unit_crea_apri.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form_creaapri"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="unit_pin.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormPin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+      </Unit11>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="DataLock"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="unit_obj"/>
+    </SearchPaths>
+    <Linking>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+    <Other>
+      <CustomOptions Value="-dBorland -dVer150 -dDelphi7 -dCompiler6_Up"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

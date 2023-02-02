@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="18">
+      <Unit0>
+        <Filename Value="DataLock.ppr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="13" Y="13"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ubasedlg.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="BaseDirDlg"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="11" Y="21"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="udemodlg.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DemoDlg"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="11"/>
+        <WindowIndex Value="0"/>
+        <CursorPos Y="20"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="dgAbout.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dlgAboutBox"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="8"/>
+        <WindowIndex Value="0"/>
+        <CursorPos Y="20"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="UMain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1484"/>
+        <CursorPos X="41" Y="1500"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="unit2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="5" Y="19"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="unit_open.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="form_open"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="5" Y="19"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="unit_crypt.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form_crypt"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="9"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="5" Y="19"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="FmWriter.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="WriterForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="10"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="5" Y="19"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="FmReader.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="ReaderForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="5" Y="19"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="unit_crea_apri.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form_creaapri"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="5" Y="19"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="unit_pin.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormPin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="5" Y="19"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="usplash.pas"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <UsageCount Value="36"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\codetyphon\typhon\lcl\include\control.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <CursorPos Y="3606"/>
+        <UsageCount Value="26"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\codetyphon\typhon\components\packages_pl\pl_Abbrevia\source\AbArcTyp.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="562"/>
+        <CursorPos X="16" Y="582"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\codetyphon\typhon\components\packages_pl\pl_Abbrevia\source\AbConst.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="186"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\codetyphon\typhon\components\packages_pl\pl_Abbrevia\source\AbResString.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="228"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\codetyphon\typhon\components\packages_pl\pl_Abbrevia\source\AbDfBase.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="259"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="474" TopLine="470"/>
+      </Position1>
+      <Position2>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="473" TopLine="469"/>
+      </Position2>
+      <Position3>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="472" TopLine="468"/>
+      </Position3>
+      <Position4>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="471" TopLine="467"/>
+      </Position4>
+      <Position5>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="482" TopLine="478"/>
+      </Position5>
+      <Position6>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="481" TopLine="477"/>
+      </Position6>
+      <Position7>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="482" TopLine="478"/>
+      </Position7>
+      <Position8>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="681" Column="3" TopLine="676"/>
+      </Position8>
+      <Position9>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="205" Column="15" TopLine="194"/>
+      </Position9>
+      <Position10>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="680" TopLine="675"/>
+      </Position10>
+      <Position11>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="684" Column="19" TopLine="668"/>
+      </Position11>
+      <Position12>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="683" Column="38" TopLine="672"/>
+      </Position12>
+      <Position13>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="686" Column="27" TopLine="676"/>
+      </Position13>
+      <Position14>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="1343" Column="15" TopLine="1338"/>
+      </Position14>
+      <Position15>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="696" Column="54" TopLine="688"/>
+      </Position15>
+      <Position16>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="692" Column="31" TopLine="690"/>
+      </Position16>
+      <Position17>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="693" Column="3" TopLine="691"/>
+      </Position17>
+      <Position18>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="1610" Column="3" TopLine="1608"/>
+      </Position18>
+      <Position19>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="1343" Column="3" TopLine="1341"/>
+      </Position19>
+      <Position20>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="1591" Column="3" TopLine="1589"/>
+      </Position20>
+      <Position21>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="693" Column="3" TopLine="691"/>
+      </Position21>
+      <Position22>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="689" Column="31" TopLine="679"/>
+      </Position22>
+      <Position23>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="1232" Column="36" TopLine="1228"/>
+      </Position23>
+      <Position24>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="731" TopLine="726"/>
+      </Position24>
+      <Position25>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="1231" TopLine="1227"/>
+      </Position25>
+      <Position26>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="1067" Column="3" TopLine="1055"/>
+      </Position26>
+      <Position27>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="728" Column="22" TopLine="717"/>
+      </Position27>
+      <Position28>
+        <Filename Value="ubasedlg.pas"/>
+        <Caret Line="7" Column="6"/>
+      </Position28>
+      <Position29>
+        <Filename Value="ubasedlg.pas"/>
+        <Caret Line="21" Column="11"/>
+      </Position29>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
