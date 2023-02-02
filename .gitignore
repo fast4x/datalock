@@ -3,3 +3,4 @@
 *.o
 *.obj
 unit_obj/
+Bin/
